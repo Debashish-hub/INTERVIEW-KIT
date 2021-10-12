@@ -1,0 +1,7 @@
+int countSetBits(int n)
+    {
+        // Your logic here
+        if(n==0)return 0;
+        int x=(log2(n));
+        return((pow(2,x-1)*x)+(n-pow(2,x)+1)+countSetBits(n-pow(2,x)));
+    }

@@ -1,27 +1,20 @@
+//Repeat and Missing Number
+
 int main()
 {
     int arr[] = { 4, 3, 6, 2, 1, 1 };
     int n = 6;
-     
     unordered_map<int, bool> numberMap;
-     
-    for(int i : arr)
-    {
-        if (numberMap.find(i) == numberMap.end())
-        {
+    for(int i : arr){
+        if (numberMap.find(i) == numberMap.end()){
             numberMap[i] = true;
-        }
-        else
-        {
+        }else{
             cout << "Repeating = " << i;
         }
     }
     cout << endl;
-     
-    for(int i = 1; i <= n; i++)
-    {
-        if (numberMap.find(i) == numberMap.end())
-        {
+    for(int i = 1; i <= n; i++){
+        if (numberMap.find(i) == numberMap.end()){
             cout << "Missing = " << i;
         }
     }

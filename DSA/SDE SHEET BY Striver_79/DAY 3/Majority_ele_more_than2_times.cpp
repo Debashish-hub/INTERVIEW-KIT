@@ -1,3 +1,5 @@
+//Majority Element (>N/2 times)  	
+
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {

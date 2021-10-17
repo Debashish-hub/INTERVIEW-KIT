@@ -1,4 +1,5 @@
-solve(vector<int> &A, int B){
+//Count number of subarrays with given Xor K
+int solve(vector<int> &A, int B){
     map<int, int> freq;
     int cnt = 0, xor = 0;
     for(auto it:A){
@@ -11,5 +12,5 @@ solve(vector<int> &A, int B){
         }
         freq[xorr] += 1;
     }
-    return count;
+    return cnt;
 }

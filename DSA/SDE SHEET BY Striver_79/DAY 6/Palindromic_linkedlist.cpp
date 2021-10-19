@@ -1,3 +1,4 @@
+//Check if a LinkedList is palindrome or not.
 /**
  * Definition for singly-linked list.
  * struct ListNode {

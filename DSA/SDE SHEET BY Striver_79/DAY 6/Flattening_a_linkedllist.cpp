@@ -1,3 +1,5 @@
+//Flattening of a LinkedList	
+
 // { Driver Code Starts
 #include <bits/stdc++.h>
 

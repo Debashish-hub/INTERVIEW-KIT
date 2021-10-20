@@ -1,3 +1,4 @@
+//Remove Duplicate from Sorted array	
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {

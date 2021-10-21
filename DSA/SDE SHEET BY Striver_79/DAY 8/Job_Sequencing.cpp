@@ -1,3 +1,4 @@
+//Job sequencing Problem 	
 static bool com(Job a,Job b){
         return a.profit>b.profit;
     }

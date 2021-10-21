@@ -1,3 +1,4 @@
+//Greedy algorithm to find minimum number of coins
 void findMin(int V)
 {
     sort(deno, deno + n);

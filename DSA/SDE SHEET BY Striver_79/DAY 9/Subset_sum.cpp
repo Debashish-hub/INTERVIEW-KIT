@@ -1,3 +1,5 @@
+//Subset Sums	
+
 public: 
     void func(int ind, int sum,vector<int> &arr, int N, vector<int> &sumSubset) {
         if(ind == N) {

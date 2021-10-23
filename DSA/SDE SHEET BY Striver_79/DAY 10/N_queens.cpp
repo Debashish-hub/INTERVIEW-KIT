@@ -1,3 +1,4 @@
+//N queens Problem	
 class Solution {
 
 public: 

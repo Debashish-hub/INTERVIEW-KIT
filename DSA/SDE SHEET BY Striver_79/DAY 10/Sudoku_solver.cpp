@@ -1,3 +1,5 @@
+//Sudoku Solver	
+
 class Solution {
 public:
     bool isSafe(vector<vector<char>> grid, int row,int col, char num) //we check if block is safe or not

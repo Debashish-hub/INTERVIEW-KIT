@@ -1,3 +1,5 @@
+//Print all permutations of a string/array	
+
 class Solution {
 public:
     void permutation(vector<int>&nums,int x,vector<vector<int>>&result){

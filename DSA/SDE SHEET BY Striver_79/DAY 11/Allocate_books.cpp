@@ -1,3 +1,5 @@
+//Allocate Minimum Number of Pages	
+
 int isPossible(vector<int> &A, int pages, int students) {
     int cnt = 0;
     int sumAllocated = 0; 

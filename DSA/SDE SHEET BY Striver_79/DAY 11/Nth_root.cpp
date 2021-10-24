@@ -1,3 +1,4 @@
+//The N-th root of an integer	
 void findNthRoot(double x, int n)
 {
  

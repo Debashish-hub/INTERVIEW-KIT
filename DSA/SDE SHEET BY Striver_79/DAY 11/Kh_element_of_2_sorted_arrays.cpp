@@ -1,3 +1,5 @@
+//K-th element of two sorted arrays 	
+
 int kthElement(int arr1[], int arr2[], int n, int m, int k)
     {
         if(n>m){

@@ -1,3 +1,5 @@
+//Find the element that appears once in a sorted array, and the rest element appears twice (Binary search) 	
+
 int singleNonDuplicate(vector<int>& nums) {
         int low = 0, high = nums.size() - 2; 
         while(low <= high) {

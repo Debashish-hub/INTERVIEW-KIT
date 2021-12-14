@@ -9,7 +9,7 @@
 ## Contents
 - [DSA](https://github.com/Debashish-hub/INTERVIEW-KIT/tree/main/DSA)
 - [Core Subjects](https://github.com/Debashish-hub/INTERVIEW-KIT/tree/main/CORE%20SUBJECTS)
-- [Company Wise Solved Questions]()
+- [Company Wise Solved Questions](https://github.com/Debashish-hub/INTERVIEW-KIT/tree/main/COMPANY%20WISE)
 
 ## Sheets to practise 📗
 - [Love Babbar 450 DSA sheet](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
